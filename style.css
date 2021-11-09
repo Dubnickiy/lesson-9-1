@@ -1,0 +1,96 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+  
+}
+.who {
+  font-size: 18px;
+  text-align: center;
+
+}
+.hello {
+  color: aqua;
+  text-align: center;
+  font-size: 67px;
+
+}
+.text {
+  text-align: center;
+  width: 531px;
+  padding-left: 335px;
+  font-size: 20px;
+  margin-top: 16px;
+}
+.web {
+  width: 937px;
+  padding-left: 132px;
+}
+.content-img {
+  display: flex;
+}
+.anchor {
+  width: 230px;
+  height: 420px;
+  background: #f7f7f7;
+  padding: 56px 30px 0 30px;
+  border: 1px solid #ededed;
+  transition: all 0.55s;
+  text-align: center;
+}
+.anchor:hover {
+  background: #0ec8cb;
+  border: 1px solid #0ec8cb;
+  cursor: pointer;
+  color: #ffffff;
+}
+img:hover{
+  filter: invert(1);
+}
+.diamond {
+  width: 230px;
+  height: 420px;
+  background: #f7f7f7;
+  padding: 56px 30px 0 30px;
+  border: 1px solid #ededed;
+  transition: all 0.55s;
+  text-align: center;
+}
+.diamond:hover {
+  background: #0ec8cb;
+  border: 1px solid #0ec8cb;
+  cursor: pointer;
+  color: #ffffff;
+}
+.eyeglasses {
+  width: 230px;
+  height: 420px;
+  background: #f7f7f7;
+  padding: 56px 30px 0 30px;
+  border: 1px solid #ededed;
+  transition: all 0.55s;
+  text-align: center;
+}
+.eyeglasses:hover {
+  background: #0ec8cb;
+  border: 1px solid #0ec8cb;
+  cursor: pointer;
+  color: #ffffff;
+}
+.monitor {
+  width: 230px;
+  height: 420px;
+  background: #f7f7f7;
+  padding: 56px 30px 0 30px;
+  border: 1px solid #ededed;
+  transition: all 0.55s;
+  text-align: center;
+}
+.monitor:hover {
+  background: #0ec8cb;
+  border: 1px solid #0ec8cb;
+  cursor: pointer;
+  color: #ffffff;
+}
